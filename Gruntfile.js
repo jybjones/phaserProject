@@ -50,8 +50,7 @@ module.exports = function(grunt) {
        }
      }
    },
-      }
-    },
+
     clean: ['public'],
     connect: {
       main: {

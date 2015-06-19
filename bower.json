@@ -12,5 +12,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "firebase": "~2.2.7",
+    "phaser": "~2.3.0"
+  }
 }
